@@ -13,18 +13,18 @@ Download the ZP.sh script:
 
 bash
 Copy code
-curl -O https://raw.githubusercontent.com/pro-svg/ZawaProxy/main/ZP.sh
+```curl -O https://raw.githubusercontent.com/pro-svg/ZawaProxy/main/ZP.sh```
 Make the script executable:
 
 bash
 Copy code
-chmod +x ZP.sh
+```chmod +x ZP.sh```
 Usage
 To execute the ZawaProxy script, run the following command:
 
 bash
 Copy code
-./ZP.sh
+```./ZP.sh```
 This will set up 1.1.1.1 encrypted DNS and create a hotspot named "ZawaProxy" with no password.
 
 Please ensure that your iPhone is jailbroken and that you have the necessary permissions for running scripts.
